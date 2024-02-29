@@ -1,0 +1,11 @@
+.splide {
+    width: 300px;
+    mix-blend-mode: multiply;
+}
+
+.splide__slide {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,30 @@
+.productsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+    padding: 20px;
+}
+
+.filtersContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.button__dark {
+    background-color: transparent;
+}
+
+.input__container {
+    width: 25%;
+    height: 30px;
+    display: flex;
+    cursor: pointer;
+    padding: 10px 20px;
+    background: white;
+    border-radius: 10px;
+    align-items: center;
+    box-shadow: 0 10px 25px orangered;
+}

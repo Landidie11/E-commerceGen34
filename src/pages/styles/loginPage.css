@@ -1,0 +1,20 @@
+.loginContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+}
+
+.loginContainer button:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+    color: green;
+    box-shadow: 2px 2px orangered;
+
+}
+
+.loginContainer span {
+    color: orangered;
+}

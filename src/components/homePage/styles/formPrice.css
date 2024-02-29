@@ -1,0 +1,16 @@
+.form__search {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.button__search {
+    background: transparent;
+}
+
+.button__search:hover {
+    transform: scale(1.2);
+}
